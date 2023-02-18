@@ -1,0 +1,49 @@
+[
+    
+    
+    {
+        "job_id": "01",
+        "title": "Experienced IT Recruiters",
+        "name":"Technousa",
+        "image":"https://img.freepik.com/premium-vector/tech-data-logo-premium-vector_647963-10.jpg?w=2000",
+        "location":"Delhi"
+    },
+    {
+        "job_id": "02",
+        "title": "OracleAppsTechnical",
+        "name":"ComputerTech",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjZXLWf3PCnwlKQg1dzaC0uD4eJiTraAoQm7WAWKDPvHXlb_2Lo-tazxyVj19bCwp6nPU&usqp=CAU",
+        "location":"Maharashtra"
+    },
+    {
+        "job_id": "03",
+        "title": "Ethical Hacking Trainer",
+        "name":"TechDefence Labs",
+        "image":"https://cdn2.vectorstock.com/i/1000x1000/41/06/ct-monogram-logo-vector-33144106.jpg",
+        "location":"Delli"
+    },
+    {
+        "job_id": "04",
+        "title": "TalentAcquisitionProfessionals",
+        "name":"ThinkNEXT Technologies",
+        "image":"https://cdn4.vectorstock.com/i/1000x1000/46/13/tt-monogram-logo-vector-33144613.jpg",
+        "location":"Punjab"
+    },
+    {
+        "job_id": "05",
+        "title": "Node JS Developer",
+        "name":"Radical Technologies",
+        "image":"https://img.freepik.com/premium-vector/tech-data-logo-premium-vector_647963-10.jpg?w=2000",
+        "location":"Pune, Maharashtra"
+    },
+    {
+        "job_id": "06",
+        "title": "Desktop Support Engineer",
+        "name":"Buzzworks",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF39Cj4hgvlmA6AdrgHFiqZPT9FELSM-A_2Ouo9DTaNj_dsa-GEwhDOaey_oLFPZShi4&usqp=CAU",
+        "location":"Sylhet"
+}
+
+
+
+]

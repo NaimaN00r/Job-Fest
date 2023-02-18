@@ -1,0 +1,48 @@
+[
+       
+        
+            {
+                "job_id": "01",
+                "title": "for Solutions Developer fresher; B.E CS, IT or E&TC",
+                "name":"Radical Technologies",
+                "image":"https://img.freepik.com/premium-vector/tech-data-logo-premium-vector_647963-10.jpg?w=2000",
+                "location":"Pune, Maharashtra"
+            },
+            {
+                "job_id": "02",
+                "title": "Web developer",
+                "name":"way2society",
+                "image":"https://img.freepik.com/free-vector/abstract-letter-t-logo_1032-117.jpg",
+                "location":"Maharashtra"
+            },
+            {
+                "job_id": "03",
+                "title": "Ethical Hacking Trainer",
+                "name":"TechDefence Labs",
+                "image":"https://cdn2.vectorstock.com/i/1000x1000/41/06/ct-monogram-logo-vector-33144106.jpg",
+                "location":"Delli"
+            },
+            {
+                "job_id": "04",
+                "title": "PHP Developer",
+                "name":"ThinkNEXT Technologies",
+                "image":"https://cdn4.vectorstock.com/i/1000x1000/46/13/tt-monogram-logo-vector-33144613.jpg",
+                "location":"Punjab"
+            },
+            {
+                "job_id": "05",
+                "title": "for Solutions Developer fresher; B.E CS, IT or E&TC",
+                "name":"Radical Technologies",
+                "image":"https://img.freepik.com/premium-vector/tech-data-logo-premium-vector_647963-10.jpg?w=2000",
+                "location":"Pune, Maharashtra"
+            },
+            {
+                "job_id": "06",
+                "title": "IT RECRUITER JOB",
+                "name":"Buzzworks",
+                "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCF39Cj4hgvlmA6AdrgHFiqZPT9FELSM-A_2Ouo9DTaNj_dsa-GEwhDOaey_oLFPZShi4&usqp=CAU",
+                "location":"Sylhet"
+        }
+]
+
+    
